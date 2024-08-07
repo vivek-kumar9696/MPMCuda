@@ -18,11 +18,11 @@ MPM is a hybrid Eulerian/Lagrangian method for the simulation of physically accu
 
 Three Materials Coupling       |   Fluid Interaction
 :-------------------------:|:-------------------------:
-<img src="final_gifs/couplingx8.gif" width="300">| <img src="final_gifs/twofluids_gifx16.gif" width="300"> |
+<img src="final_gifs/all_1.gif" width="300">| <img src="final_gifs/twofluids_gifx16.gif" width="300"> |
 
 Three Jello Collision        |   Two Jello Hearts
 :-------------------------:|:-------------------------:
-<img src="final_gifs/dogTurkeyHeart_gif.gif" width="300">| <img src="final_gifs/heart_gif.gif" width="300"> |
+<img src="final_gifs/all_4.gif" width="300">| <img src="final_gifs/heart_gif.gif" width="300"> |
 
 Snow Smash        |   Snow & Jello Pikachus
 :-------------------------:|:-------------------------:
