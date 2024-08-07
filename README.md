@@ -4,11 +4,11 @@ MPM is a hybrid Eulerian/Lagrangian method for the simulation of physically accu
 
 
 
-Three Materials Coupling       
-<img src="final_gifs/all_1.gif" width="300">
+###Three Materials Coupling       
+![video](final_gifs/all_1.gif)
 
-Fluid Interaction
-<img src="final_gifs/twofluids_gifx16.gif" width="300"> 
+###Fluid Interaction
+![video](final_gifs/twofluids_gifx16.gif)
 
 
 ### Running from cloned source
