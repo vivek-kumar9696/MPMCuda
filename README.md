@@ -11,12 +11,3 @@ MPM is a hybrid Eulerian/Lagrangian method for the simulation of physically accu
 ![video](final_gifs/twofluids_gifx16.gif)
 
 
-### Running from cloned source
-
-```
-npm install
-npm run-script build   # or `npm start` and do the following in a separate terminal
-npm run-script serve
-```
-
-
